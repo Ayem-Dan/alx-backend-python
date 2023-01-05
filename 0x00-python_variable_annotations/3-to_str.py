@@ -5,5 +5,5 @@ import math
 
 
 def to_str(n: float) -> str:
-    # returns flpat as a string
+    """ returns float as a string"""
     return str(n)

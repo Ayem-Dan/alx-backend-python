@@ -5,5 +5,5 @@ import typing
 
 
 def sum_list(input_list: typing.List[float]) -> float:
-    # returns float as a string
+    """ returns float as a string"""
     return sum(input_list)
