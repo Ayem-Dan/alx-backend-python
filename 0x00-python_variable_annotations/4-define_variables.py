@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" This scripts contains annotaions of variables."""
+""" This scripts contains annotations of variables."""
 
 a: int = 1
 pi: float = 3.14
