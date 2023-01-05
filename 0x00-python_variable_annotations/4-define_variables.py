@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-""" This scripts contains a functon that takes a float
-then returns the floored float """
+""" This scripts contains annotaions of variables."""
 
 a: int = 1
 pi: float = 3.14
